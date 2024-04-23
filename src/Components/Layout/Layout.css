@@ -1,0 +1,8 @@
+.wrapper {
+  background-color: #3c40e6;
+  background-image: url(https://flatuicolors.com/static/img/stars-opacity.0979c1.svg);
+}
+.page-container {
+  height: calc(120vh - 112px);
+  overflow: hidden;
+}
